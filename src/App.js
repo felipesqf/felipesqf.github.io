@@ -15,6 +15,7 @@ function App() {
           <Route exact path="/experience" component={Experience} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/portfolio" component={Portfolio} />
+          <Route component={NotFound} status={404}/>
       </Switch>
     </Router>
   );
