@@ -1,0 +1,57 @@
+.yellow_bar{
+    position: fixed;
+    background: yellow;
+    height: 80px;
+    bottom: 0px;
+    right: 0;
+    width: 80%;
+    color: #2d3030;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-top-left-radius:100px;	
+    border-bottom-left-radius:100px;
+}
+.yellow_bar p{
+    margin-top: 10px;
+    /* margin-right: 1000px; */
+    margin-right: 50px;
+    font-weight: 700;
+    font-size: 40px;
+}
+.yellow_bar i, #email{
+    text-decoration: none;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: #2d3030;
+}
+a:hover{
+    text-decoration: none;
+}
+@media screen and (max-width: 768){
+    .yellow_bar{
+        width: 100%;
+        justify-content: flex-start;
+        
+    }
+    .yellow_bar i, #email{
+        text-decoration: none;
+        font-size: 15px;
+        margin-right: 10px;
+        margin-left: 10px;
+        color: #2d3030;
+    }
+    .yellow_bar i, #email{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 468px){
+    .yellow_bar p{
+        margin-right: 20px;
+        font-size: 20px;
+    }
+    .yellow_bar i, #email{
+        font-size: 10px;
+    }
+}
