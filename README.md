@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Title
+This is a personal profile built with React. 
+​
+## Contents
+The project is composed of 3 pages, index.html, portfolio.html and contact.html,and CSS files such as reset.css, style.css etc. It also has images in the img folder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## User Story
+Felipe Ferreira require a website where he can update his information and advertise his work. People can check his website to see his portfolio, information and contact him. Find below some requirements mentioned:
 
-## Available Scripts
+   * A navbar
+   * A responsive layout
+   * Responsive images
+​
+## Acceptance Criteria
+* Functional, deployed application
+* GitHub repository with README describing the project
+* Navbar must be consistent on each page.
+* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+* All links must work.
+* Must use semantic html.
+* Each page must have valid and correct HTML. (use a validation service)
+* Must contain your personalized information. (bio, name, images, links to social media, etc.)
+* Must properly utilize Bootstrap components and grid system.
 
-In the project directory, you can run:
+## Built With
+* [VScode](https://code.visualstudio.com/) - The editor of choice
+* [Terminal](https://gitforwindows.org/) - What would we do without our bash?
+​
+#### Final Interface
+![screenshot1](https://github.com/felipesqf/Responsive-Portfolio/blob/master/Assets/Images/portfolio.PNG) 
+​![screenshot1](https://github.com/felipesqf/Responsive-Portfolio/blob/master/Assets/Images/fferreira-aboutme.PNG) 
+![screenshot1](https://github.com/felipesqf/Responsive-Portfolio/blob/master/Assets/Images/fferreira-contact.PNG)
+![screenshot1](https://github.com/felipesqf/Responsive-Portfolio/blob/master/Assets/Images/fferreira-portfolio.PNG)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Licence
+N/A.
+​
+### Link to the Website
+<a href="https://felipesqf.github.io/">Link to the Felipe Ferreira Portfolio</a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Authors
+Felipe Ferreira  <br><br>
+Contact information:<br>
+felipesqf@gmail.com<br>
+Github: felipesqf<br>
++61 0406 021 252
+​​  
+## Acknowledgments
+To Teacher and TA's:
+Klaus Paiva, Sandes and Mozamel Anwary

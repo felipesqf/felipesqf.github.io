@@ -24,7 +24,7 @@ class About extends Component {
                                     transactions, ALV, Bath Input and BRF+.</p>
                                     <p>●	Currently working to upskill my technical knowledge by studying a Full Stack Developer Coding
                                     bootcamp at Sydney University including the languages and libraries: HTML, CSS, JavaScript,
-                                    jQuery, JSON, AJAX, Node.js, Express.js, Handlebars, MySQL and others.</p>       
+                                    jQuery, React, Node.js, Express.js, Handlebars, MySQL, Git and others.</p>       
                                     <p>●	Experience in designing SAP Finance (FI) and Real Estate (RE-FX) solutions, gathering
                                     requirements, writing test cases, executing integrated and unit tests and fixing incidents. Exposure
                                     to Salesforce, Sitecore and ALM.</p>                
