@@ -28,28 +28,28 @@ class Portfolio extends Component {
           application: "https://github.com/felipesqf/Weather-Dashboard"
         },
         {
-          image:"../images/workday.png",
+          image:"../images/workout.png",
           alt: "workday",
-          title: "Work Day Scheduler",
-          text: "Start organizing your work day now",
-          github: "https://felipesqf.github.io/Work-Day-Scheduler/",
-          application: "https://github.com/felipesqf/Work-Day-Scheduler"
+          title: "Workout Tracker",
+          text: "Track your fitness goals here!",
+          github: "https://github.com/felipesqf/Workout-Tracker",
+          application: "https://agile-scrubland-26537.herokuapp.com/?id=5ff28a9c39a0678c5dab72ac"
         },
         {
-          image:"../images/passwordgen.png",
-          alt: "passgen",
-          title: "Password Generator",
-          text: "A passwaord generator using your criteria.",
-          github: "hhttps://felipesqf.github.io/Password-Generator/",
-          application: "https://github.com/felipesqf/Password-Generator"
+          image:"../images/budget.png",
+          alt: "budget",
+          title: "Online/Offline Budget Tracker",
+          text: "To keep the budget pon track.",
+          github: "https://github.com/felipesqf/Online-Offline-Budget-Trackers",
+          application: "https://rocky-journey-41488.herokuapp.com/"
         },
         {
-          image:"../images/codequiz.png",
-          alt: "code quiz",
-          title: "Code Quiz",
-          text: " multiple-choice timed code quiz.",
-          github: "https://felipesqf.github.io/Code-Quiz/",
-          application: "https://github.com/felipesqf/Code-Quiz"
+          image:"../images/burger.png",
+          alt: "burger app",
+          title: "Burger - Express Handlebars",
+          text: "Eat-Da-Burger! Check it out.",
+          github: "https://github.com/felipesqf/Burger",
+          application: "https://whispering-tor-94667.herokuapp.com/"
         },
         {
           image:"../images/business.png",
