@@ -90,9 +90,11 @@ class Portfolio extends Component {
                                 </div>
                                 </div>
                                 <br/><br/>
-                                        <a href="https://github.com/felipesqf" target="_blank" className="btn" id="see">My Github</a>
+                                        <a href="https://github.com/felipesqf" target="_blank" className="btn" id="see">See More here</a>
                                         <br/><br/>
-                            
+                                        <Link to="/experience" className="btn" id="exp">Experience</Link>
+                                        <Link to="/" className="btn" id="abt">About</Link>
+                                        <Link to="/contact" className="btn" id="cont">Contact</Link>
 
                             </div>
                         </div>
