@@ -156,7 +156,7 @@ a:hover{
 .portfolio_projects img{
     padding: 0 8px;
     height: 250px;
-    width: 370px;
+    width: 355px;
 }
 @media screen and (max-width: 1368px){
     .portfolio_projects{
