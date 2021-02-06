@@ -16,7 +16,7 @@ class Experience extends Component {
                     <div><h1>Education and Experience</h1></div>
                     <div class="experience_grid">
                         <div class="experience_left">
-                        <img src="../images/code.jpg" alt="code" class="codeimage" />
+                        <img src="https://github.com/felipesqf/felipesqf.github.io/blob/master/public/images/code.jpg?raw=true" alt="code" class="codeimage" />
                         </div>
                             <div class="experience_right">
                             <div class="experience_content">
