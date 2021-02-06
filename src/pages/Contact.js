@@ -29,12 +29,7 @@ class Contact extends Component {
                                     <button type="button" className="btn">Submit</button>
                                 </form>
                             </div>
-                            <br/><br/>
-                            <div className="links">
-                                <Link to="/experience" className="btn">Experience</Link>
-                                <Link to="/" className="btn">About</Link>
-                                <Link to="/portfolio" className="btn">Portfolio</Link>
-                            </div>
+                            
                         </div>
                     </section>
                     <Bar/>
