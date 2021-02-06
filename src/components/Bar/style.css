@@ -29,18 +29,19 @@
 a:hover{
     text-decoration: none;
 }
-@media screen and (max-width: 768){
-    .yellow_bar{
-        width: 100%;
-        justify-content: flex-start;
-        
+@media screen and (max-width: 1000px){
+    .yellow_bar p{
+        margin-right: 20px;
+        font-size: 25px;
     }
     .yellow_bar i, #email{
-        text-decoration: none;
-        font-size: 15px;
-        margin-right: 10px;
-        margin-left: 10px;
-        color: #2d3030;
+        font-size: 25px;
+    }
+}
+@media screen and (max-width: 768px){
+    .yellow_bar p{
+        margin-right: 20px;
+        font-size: 20px;
     }
     .yellow_bar i, #email{
         font-size: 20px;
@@ -51,7 +52,7 @@ a:hover{
         margin-right: 20px;
         font-size: 20px;
     }
-    .yellow_bar i, #email{
-        font-size: 10px;
+    .yellow_bar i, #email p{
+        font-size: 20px;
     }
 }

@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import './contact.css';
 import Footer from "../components/Footer";
 import Bar from "../components/Bar";
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+import NavBar from "../components/NavBar";
 // import Profile from "../components/ProfilePic";
 
 
@@ -12,6 +13,7 @@ class Contact extends Component {
     render() {
       return (
         <article>
+          <NavBar/>
                     <section className="contact" id="contact">
                         <div className="contact_container">
                         <h1>Contact</h1>

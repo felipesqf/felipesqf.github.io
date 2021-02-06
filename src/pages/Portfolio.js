@@ -2,7 +2,8 @@ import React, { Component } from "react";
 import './portfolio.css';
 import Footer from "../components/Footer";
 import Bar from "../components/Bar";
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+import NavBar from "../components/NavBar";
 // import Profile from "../components/ProfilePic";
 
 
@@ -12,6 +13,7 @@ class Portfolio extends Component {
     render() {
       return (
         <article>
+            <NavBar/>
             <div className="portfolio" id="portfolio">
             <div className="portfolio_container">
                         <h1>Portfolio <img src="../images/git.webp" alt="vscode" className="git"/></h1>

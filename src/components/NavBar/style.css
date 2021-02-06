@@ -1,0 +1,13 @@
+
+.nav{
+    background: #CAE7DF;
+    font-size: 20px;
+    
+}
+.nav a{
+    color: #000;
+}
+.nav a:hover{
+    color: #fff;
+    text-decoration: none;
+}

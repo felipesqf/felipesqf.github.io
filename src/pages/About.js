@@ -2,18 +2,20 @@ import React, { Component } from "react";
 import './about.css';
 import Footer from "../components/Footer";
 import Bar from "../components/Bar";
+import NavBar from "../components/NavBar";
 import Resume from "../components/Resume";
 import Profile from "../components/ProfilePic";
-import { Link } from 'react-router-dom'
+
 
 class About extends Component {
   //Render on the screen
     render() {
       return (
         <article>
+          <NavBar/ >
             <section className="main_section" id="main">
                     <div className="main_container">
-                        <h1>Hi, I am Felipe!</h1>
+                        <h1>Hi, I am Felipe!</h1><hr/>
                         <div className="main_content">
                             <section className="main_text">
                                 <h3>Full Stack Developer and Business Analyst living in Sydney</h3>
@@ -29,9 +31,7 @@ class About extends Component {
                                     requirements, writing test cases, executing integrated and unit tests and fixing incidents. Exposure
                                     to Salesforce, Sitecore and ALM.</p>                
                                     <Resume/>                                 
-                                    <Link to="/experience" className="btn">Experience</Link>
-                                    <Link to="/portfolio" className="btn">Portfolio</Link>
-                                    <Link to="/contact" className="btn">Contact</Link>
+                                
                             </section>
                             <Profile/>
                         </div>

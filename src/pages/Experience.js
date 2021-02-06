@@ -3,7 +3,8 @@ import './experience.css';
 import Footer from "../components/Footer";
 import Bar from "../components/Bar";
 import Resume from "../components/Resume";
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
+import NavBar from "../components/NavBar";
 // import Profile from "../components/ProfilePic";
 
 
@@ -13,6 +14,7 @@ class Experience extends Component {
     render() {
       return (
         <article>
+            <NavBar/>
                 <section class="experience_container">
                     <div><h1>Education and Experience</h1></div>
                     <div class="experience_grid">
