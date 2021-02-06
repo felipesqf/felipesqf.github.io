@@ -3,6 +3,7 @@ import './experience.css';
 import Footer from "../components/Footer";
 import Bar from "../components/Bar";
 import Resume from "../components/Resume";
+import { Link } from 'react-router-dom'
 // import Profile from "../components/ProfilePic";
 
 
@@ -40,9 +41,9 @@ class Experience extends Component {
                                         </p><br/><br/><br/>
 
                                     <Resume/>
-                                    <a href="/" class="btn">About</a>
-                                    <a href="/portfolio" class="btn">Portfolio</a>
-                                    <a href="/contact" class="btn">Contact</a>
+                                    <Link to="/" class="btn">About</Link>
+                                    <Link to="/portfolio" class="btn">Portfolio</Link>
+                                    <Link to="/contact" class="btn">Contact</Link>
                                 </div>
                             </div>
                             </div>

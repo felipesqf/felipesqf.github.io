@@ -4,6 +4,7 @@ import Footer from "../components/Footer";
 import Bar from "../components/Bar";
 import Resume from "../components/Resume";
 import Profile from "../components/ProfilePic";
+import { Link } from 'react-router-dom'
 
 class About extends Component {
   //Render on the screen
@@ -28,9 +29,9 @@ class About extends Component {
                                     requirements, writing test cases, executing integrated and unit tests and fixing incidents. Exposure
                                     to Salesforce, Sitecore and ALM.</p>                
                                     <Resume/>                                 
-                                    <a href="/experience" className="btn">Experience</a>
-                                    <a href="/portfolio" className="btn">Portfolio</a>
-                                    <a href="/contact" className="btn">Contact</a>
+                                    <Link to="/experience" className="btn">Experience</Link>
+                                    <Link to="/portfolio" className="btn">Portfolio</Link>
+                                    <Link to="/contact" className="btn">Contact</Link>
                             </section>
                             <Profile/>
                         </div>

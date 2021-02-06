@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import './portfolio.css';
 import Footer from "../components/Footer";
 import Bar from "../components/Bar";
+import { Link } from 'react-router-dom'
 // import Profile from "../components/ProfilePic";
 
 
@@ -89,9 +90,9 @@ class Portfolio extends Component {
                                 <br/><br/>
                                         <a href="https://github.com/felipesqf" target="_blank" className="btn" id="see">See More here</a>
                                         <br/><br/>
-                                        <a href="/experience" className="btn" id="exp">Experience</a>
-                                        <a href="/" className="btn" id="abt">About</a>
-                                        <a href="/contact" className="btn" id="cont">Contact</a>
+                                        <Link to="/experience" className="btn" id="exp">Experience</Link>
+                                        <Link to="/" className="btn" id="abt">About</Link>
+                                        <Link to="/contact" className="btn" id="cont">Contact</Link>
 
                             </div>
                         </div>

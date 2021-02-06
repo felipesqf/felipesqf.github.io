@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import './contact.css';
 import Footer from "../components/Footer";
 import Bar from "../components/Bar";
-
+import { Link } from 'react-router-dom'
 // import Profile from "../components/ProfilePic";
 
 
@@ -29,9 +29,9 @@ class Contact extends Component {
                             </div>
                             <br/><br/>
                             <div className="links">
-                                <a href="/experience" className="btn">Experience</a>
-                                <a href="/" className="btn">About</a>
-                                <a href="/portfolio" className="btn">Portfolio</a>
+                                <Link to="/experience" className="btn">Experience</Link>
+                                <Link to="/" className="btn">About</Link>
+                                <Link to="/portfolio" className="btn">Portfolio</Link>
                             </div>
                         </div>
                     </section>
