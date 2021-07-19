@@ -24,7 +24,7 @@ class About extends Component {
                                   and Real Estate modules defining and developing solutions which deliver value to customers and business stakeholders.</p><br></br>
                                   <h4>Technologies and skills:</h4>       
                                     <p>• Docker, IaC, AWS, CI/CD, GIT, S/4HANA, SAP REFX, SAP Financials, SAP ABAP, Salesforce, Sitecore and Data Migration.<br></br>
-                                      • Languages, application, and frameworks stacks: HTML, CSS, JavaScript, React.js, jQuery, JSON, AJAX, Serverless frameword. Node.js, Express.js, Web3, Handlebars, GIT, ABAP and others.<br></br>
+                                      • Languages, application, and frameworks: HTML, CSS, JavaScript, React.js, jQuery, JSON, AJAX, Serverless framework. Node.js, Express.js, Web3, Handlebars, GIT, ABAP and others.<br></br>
                                       • AWS Resources (VPC, EC2, EIPs, ALB, ASG, Route53, RDS, EFS, ECS, Lambda)<br></br>
                                       • Infrastructure as Code: Terraform and CloudFormation.<br></br>
                                       • CI/CD: Gitlab CICD, TravisCI, Github Actions, AWS CodePipeline<br></br>
