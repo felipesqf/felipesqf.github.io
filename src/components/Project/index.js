@@ -10,8 +10,8 @@ function Project(props) {
           <div className="card-body">
               <h5 className="card-title">{result.title} </h5>
               <p className="card-text">{result.text} </p>
-              <a href={result.github}  target="_blank" className="btn">Application</a>
-              <a href={result.application}  target="_blank" className="btn">Github</a>
+              <a href={result.application}  target="_blank" className="btn">Application</a>
+              <a href={result.github}  target="_blank" className="btn">Github</a>
               { console.log(result)}
           </div>
           </div>

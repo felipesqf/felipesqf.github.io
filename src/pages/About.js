@@ -18,18 +18,18 @@ class About extends Component {
                         <h1>Hi, I am Felipe!</h1><hr/>
                         <div className="main_content">
                             <section className="main_text">
-                                <h3>Full Stack Developer and Business Analyst living in Sydney</h3>
-                                <p> ●	Over 10 years of experience in Information Technology, including 7 years on SAP as FI and REFX
-                                    Consultant defining and developing solutions which deliver value to customers and business
-                                    stakeholders. AWS Certified Cloud Practitioner, strong programming logic skills on SAP ABAP,
-                                    analysis and debugging programs, creating reports, use of BAPIs, exits, tables, views and
-                                    transactions, ALV, Bath Input and BRF+.</p>
-                                    <p>●	Currently working to upskill my technical knowledge by studying a Full Stack Developer Coding
-                                    bootcamp at Sydney University including the languages and libraries: HTML, CSS, JavaScript,
-                                    jQuery, React, Node.js, Express.js, Handlebars, MySQL, Git and others.</p>       
-                                    <p>●	Experience in designing SAP Finance (FI) and Real Estate (RE-FX) solutions, gathering
-                                    requirements, writing test cases, executing integrated and unit tests and fixing incidents. Exposure
-                                    to Salesforce, Sitecore and ALM.</p>                
+                                <h3>Full Stack Developer|DevOps and BA living in Sydney</h3>
+                                <p> ●	Qualified Developer, DevOps and Cloud Engineer looking for a role where I can apply my skills. 
+                                  Experienced SAP Business Analyst with 8 years of experience as SAP Business Analyst working with Financials 
+                                  and Real Estate modules defining and developing solutions which deliver value to customers and business stakeholders.</p><br></br>
+                                  <h4>Technologies and skills:</h4>       
+                                    <p>• Docker, IaC, AWS, CI/CD, GIT, S/4HANA, SAP REFX, SAP Financials, SAP ABAP, Salesforce, Sitecore and Data Migration.<br></br>
+                                      • Languages, application, and frameworks stacks: HTML, CSS, JavaScript, React.js, jQuery, JSON, AJAX, Serverless frameword. Node.js, Express.js, Web3, Handlebars, GIT, ABAP and others.<br></br>
+                                      • AWS Resources (VPC, EC2, EIPs, ALB, ASG, Route53, RDS, EFS, ECS, Lambda)<br></br>
+                                      • Infrastructure as Code: Terraform and CloudFormation.<br></br>
+                                      • CI/CD: Gitlab CICD, TravisCI, Github Actions, AWS CodePipeline<br></br>
+                                      • Database platforms based on SQL such as MySQL and Aurora, NoSQL DBs such as MongoDB and DynamoDB and ORM (Sequelize, Mongoose).<br></br>
+                                      </p>                
                                     <Resume/>                                 
                                 
                             </section>

@@ -11,21 +11,29 @@ import Project from "../components/Project";
 class Portfolio extends Component {
     state = {
         projects: [
+          {
+            image:"../images/cryptohub.png",
+            alt: "Crypto Hub",
+            title: "Crypto Hub",
+            text: "Track you crypto and portfolio",
+            github: "https://github.com/felipesqf/Crypto-Hub",
+            application: "https://crypto-hub-react.herokuapp.com/"
+          },
         {
           image:"../images/bestrecommendation.PNG",
           alt: "Best Recommendations",
           title: "Best Recommendations",
           text: "Find the best recommendations here.",
-          github: "https://dclucas95.github.io/Project-1-Recommendations/",
-          application: "https://github.com/DCLucas95/Project-1-Recommendations"
+          github: "https://github.com/DCLucas95/Project-1-Recommendations",
+          application: "https://dclucas95.github.io/Project-1-Recommendations/"
         },
         {
           image:"../images/weather.png",
           alt: "weather",
           title: "Weather Dashboard",
           text: "Worrying if it's gonna rain? Check forecast here.",
-          github: "https://felipesqf.github.io/Weather-Dashboard/",
-          application: "https://github.com/felipesqf/Weather-Dashboard"
+          github: "https://github.com/felipesqf/Weather-Dashboard",
+          application: "https://felipesqf.github.io/Weather-Dashboard/"
         },
         {
           image:"../images/workout.png",
@@ -56,8 +64,8 @@ class Portfolio extends Component {
           alt: "BAP",
           title: "Business Advertisement Portal",
           text: "A free advertisement channel.",
-          github: "https://business-advertisement-portal.herokuapp.com/",
-          application: "https://github.com/prabhm512/business-advertisement-portal"
+          github: "https://github.com/prabhm512/business-advertisement-portal",
+          application: "https://business-advertisement-portal.herokuapp.com/"
         },
       ]
     }

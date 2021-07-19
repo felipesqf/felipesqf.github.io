@@ -32,6 +32,10 @@ class Experience extends Component {
                                     University of Sydney and Trilogy Education, Sydney, Australia<br/>
                                         ●	Full Stack Developer Coding Bootcamp (In progress)<br/>
                                         ●	AWS Certified Cloud Practitioner<br/>
+                                        ●	AWS Certified Solutions Architect Associate<br/>
+                                        ●	HashiCorp Certified: Terraform Associate<br/>
+                                        ●	GitLab Certified Associate<br/>
+                                        ●	GitLab Certified CI/CD Specialist<br/>
                                         ●	SAP ABAP/4 Programmer Advanced<br/>
                                     ●	UX400 - UI Development with SAPUI5</p><br/>
                                     <h2>Experience</h2>

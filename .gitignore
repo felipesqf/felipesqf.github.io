@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# .tfstate & tfvars files
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Local .terraform directories
+.terraform*
