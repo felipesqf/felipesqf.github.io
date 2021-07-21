@@ -43,6 +43,7 @@ class Experience extends Component {
                                         ●	Grupo Assa - Specialist Senior (SAP FI REFX Consultant) - Aug-2015 - Jul-2016<br/>
                                         ●	Abaco Consultores - IT Consultant (SAP FI REFX Consultant) - Jun-2014 - Sep-2015<br/>
                                         ●	Indra Company - SAP Consultant (SAP FI REFX Consultant) - Jan-2013 - Jun-2014<br/>
+                                        ●	Computer Science Corporation (SAP FI REFX System Analyst) - Sep-2011 - Nov-2012<br/>
                                         </p><br/><br/>
 
                                     <Resume/>
