@@ -25,12 +25,10 @@ class Experience extends Component {
                             <div class="experience_content">
                                 <div class="experience_desc">
                                     <h2>Education, Certificaions, Badges and Courses</h2>
-                                    <p>University Estacio UniRadial, Sao Paulo, Brazil<br/>
+                                    <p>
                                         ●	Technology Degree in Analysis and Systems Development<br/>
-                                    Nortwest, Sydney, Australia<br/>
+                                        ●	Full Stack Developer Coding Bootcamp - (A+) - University of Sydney <br/>
                                         ●	Diploma of Information Technology - Web Development (In progress)<br/>
-                                    University of Sydney and Trilogy Education, Sydney, Australia<br/>
-                                        ●	Full Stack Developer Coding Bootcamp (A+)<br/>
                                         ●	AWS Certified Cloud Practitioner<br/>
                                         ●	AWS Certified Solutions Architect Associate<br/>
                                         ●	HashiCorp Certified: Terraform Associate<br/>
