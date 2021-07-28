@@ -29,6 +29,8 @@ class Experience extends Component {
                                         ●	Technology Degree in Analysis and Systems Development<br/>
                                         ●	Full Stack Developer Coding Bootcamp - (A+) - University of Sydney <br/>
                                         ●	Diploma of Information Technology - Web Development (In progress)<br/>
+                                        ●	AWS Certified Developer Associate<br/>
+                                        ●	AWS Certified SysOps Administrator Associate<br/>
                                         ●	AWS Certified Cloud Practitioner<br/>
                                         ●	AWS Certified Solutions Architect Associate<br/>
                                         ●	HashiCorp Certified: Terraform Associate<br/>
