@@ -18,7 +18,7 @@ class About extends Component {
                         <h1>Hi, I am Felipe!</h1><hr/>
                         <div className="main_content">
                             <section className="main_text">
-                                <h3>Full Stack Developer|DevOps and BA living in Sydney</h3>
+                                <h3>Cloud Engineer|DevOps Engineer living in Sydney</h3>
                                 <p> ●	Qualified Developer, DevOps and Cloud Engineer looking for a role where I can apply my skills. 
                                   Experienced SAP Business Analyst with 8 years of experience as SAP Business Analyst working with Financials 
                                   and Real Estate modules defining and developing solutions which deliver value to customers and business stakeholders.</p><br></br>
